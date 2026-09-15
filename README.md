@@ -1,4 +1,6 @@
 # BoardgameListingWebApp
+<img width="1339" height="620" alt="image" src="https://github.com/user-attachments/assets/29e056fc-4304-4f0a-baaa-8842107f361b" />
+
 
 ## Description 
 
